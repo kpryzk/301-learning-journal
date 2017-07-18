@@ -1,0 +1,3 @@
+# LJ Code 301 - Day 6
+
+The lab and portfolio assignment today dealt with AJAX and JSON, and while I think I might have a hard time coming up with the correct syntax on my own, I knew enough to google for what I needed and was able to complete things relatively quickly. I always feel like to some extent this is proof that I don't know what I'm doing, like I should have already memorized every line of code I'd ever need, but it's not like these things can run themselves or can work outside of the rest of the logic. So, like, not knowing exactly how to phrase a JSON parse command really isn't the end of the world. Anyway, I finished things relatively quickly today, and am hoping to read all about node! 
