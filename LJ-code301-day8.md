@@ -1,0 +1,3 @@
+# LJ Code 301 - Day 8
+
+Today we spent time delving deep into the world of SQL which is like... immensely confusing and a pretty big challenge. The lab itself was pretty straightforward, but we then tried to go line for line through the code to understand what was doing what and why and definitely got lost quite a few times. It has been helping me to think of database and server and user as very separate entities even though they are all running from my laptop. Continuing forward I'll be mentally picturing them as in a different room somewhere. Also tonight I'm planning to attend a meetup - my first - and am excited to meet people in the tech industry. 
