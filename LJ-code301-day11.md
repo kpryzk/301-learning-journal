@@ -1,0 +1,3 @@
+# LJ Code 301 - Day 11
+
+It's really hard to balance going to meetups & networking with assignments. Staying out late to go to things when I have to commute to Tacoma - leaving me pretty useless the next day - is a bad set up for a week, and I have definitely been feeling the pressure. I have never turned in a late assignment and this week I have two? And it is so helpful to be going over things in code after learning them in order to concrete knowledge, and it is additionally so helpful to actually do the reading assignments before I get into class. After spending my evening working through the Class 10 and Class 11 portfolio assignments I feel so much more comfortable with the subject matter, and I need to keep this as a reminder! 
